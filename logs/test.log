@@ -1,0 +1,21 @@
+2025-07-18 20:49:52 INFO  TestVWOLogin_PF - Starting the TestCases Page Factory
+2025-07-18 20:50:08 INFO  TestVWOLogin_PF - Error msg I got Your email, password, IP address or location did not match
+2025-07-18 20:50:08 INFO  TestVWOLogin_PF - Finished the TestCases Page Factory
+2025-07-18 20:50:08 ERROR TestVWOLogin_PF - Finished the TestCases Page Factory
+2025-07-18 20:50:08 FATAL TestVWOLogin_PF - Fatal error - code is dead!
+2025-07-18 20:50:10 INFO  TestVWOLogin_PF - Starting the TestCases Page Factory
+2025-07-18 20:50:26 INFO  TestVWOLogin_PF - usernameloggedIn  I got Aman Sharma
+2025-07-18 20:50:26 INFO  TestVWOLogin_PF - Finished the TestCases Page Factory
+2025-07-18 20:50:26 ERROR TestVWOLogin_PF - Finished the TestCases Page Factory
+2025-07-18 20:50:26 FATAL TestVWOLogin_PF - Fatal error - code is dead!
+2025-07-18 21:29:36 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-18 21:29:47 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-18 22:50:33 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-18 22:50:40 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-18 22:50:44 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-18 22:50:48 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-18 22:50:52 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-19 02:24:15 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-19 02:24:20 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-19 02:34:40 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
+2025-07-19 02:34:47 INFO  TestVWOLogin_03_Retry - Starting the Testcases Page Object Model
