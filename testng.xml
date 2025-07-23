@@ -5,6 +5,8 @@
         <classes>
             <class name="com.thetestingacademy.tests.pageObjectModelTests.vwo.TestVWOLogin_01_NormalScript_POM">
         </class>
+            <class name="com.thetestingacademy.tests.pageObjectModelTests.vwo.TestVWOLogin_02_PropertyReader_DriverManager_POM_CommonToAll">
+            </class>
         </classes>
     </test>
 </suite>
