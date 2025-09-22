@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 
 import static com.thetestingacademy.driver.DriverManager.getDriver;
 
-@Listeners(ScreenShotListener.class)
+//@Listeners(ScreenShotListener.class)
 
 @Test(retryAnalyzer = RetryAnalyzer.class)
 

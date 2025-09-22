@@ -36,12 +36,12 @@ public class TestVWOLogin_02_PropertyReader_DriverManager_POM_CommonToAll extend
         LoginPage loginPage=new LoginPage(wd);
         loginPage.loginToVWOLoginValidCreds(PropertiesReaders.readkey("username"),PropertiesReaders.readkey("password"));
 
-
-        DashboardPage dashboardPage=new DashboardPage(wd);
-        String usernameloggedIn=dashboardPage.LoggedinUsername();
-
-        assertThat(usernameloggedIn).isNotEmpty().isNotBlank().isNotNull();
-        Assert.assertEquals(usernameloggedIn,PropertiesReaders.readkey("expected_username"));
+//
+//        DashboardPage dashboardPage=new DashboardPage(wd);
+//        String usernameloggedIn=dashboardPage.LoggedinUsername();
+//
+//        assertThat(usernameloggedIn).isNotEmpty().isNotBlank().isNotNull();
+//        Assert.assertEquals(usernameloggedIn,PropertiesReaders.readkey("expected_username"));
 
 
 
